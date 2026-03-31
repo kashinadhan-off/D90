@@ -1,0 +1,7 @@
+{
+    "HOMEWORK": true,
+    "D90": true,
+    "GYM": false,
+    "SELFCARE": false,
+    "EXAM": true
+}
